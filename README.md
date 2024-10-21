@@ -7,7 +7,7 @@ api_yamdb
 Клонировать репозиторий и перейти в него в командной строке:
 
 ```
-git@github.com:mygit84/api_yamdb.git
+https://github.com/trub24/Review_API.git
 ```
 
 ```
